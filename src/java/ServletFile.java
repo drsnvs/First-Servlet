@@ -60,7 +60,7 @@ public class ServletFile extends HttpServlet {
             out.println("<tr><td>Answer </td><td>"+ans+"</td></tr></table>");
 
             
-            out.println("</body>");
+            out.println("</body>"); 
             out.println("</html>");
         }
     }
