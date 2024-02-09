@@ -40,8 +40,7 @@
                         <input type="text" name="no2">
                     </td>
                 </tr>
-                <tr ><td colspan="2" align="center"><input type="submit" value="Submit"></td></tr>
-                
+                <tr><td colspan="2" align="center"><input type="submit" value="Submit"></td></tr>
             </table>
         </form>
     </body>
