@@ -58,8 +58,6 @@ public class ServletFile extends HttpServlet {
             out.println("<tr><td>Operator </td><td>"+operator+"</td></tr>");
             out.println("<tr><td>Number 2 </td><td>"+num2+"</td></tr>");
             out.println("<tr><td>Answer </td><td>"+ans+"</td></tr></table>");
-
-            
             out.println("</body>");
             out.println("</html>");
         }
